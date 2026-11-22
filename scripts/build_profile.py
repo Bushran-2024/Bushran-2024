@@ -74,6 +74,18 @@ FEATURED = [
     "quality of the sample-based rna",
 ]
 
+# Corrections for papers the APIs miss or truncate: title fragment (lower case) and fields to set.
+OVERRIDES = {
+    "surveillance of sars-cov-2 variants targeting": {
+        "title": ("Surveillance of SARS-CoV-2 variants targeting SARS-CoV-2 spike protein mutations associated with "
+                  "variants of concern and variants of interest in the Central Province of Sri Lanka from November 2020 "
+                  "to November 2021"),
+        "doi": "https://doi.org/10.4038/sljid.v13i5.8624", "is_oa": True},
+    "selected environment in the central province": {"doi": "https://doi.org/10.4038/sljid.v13i5.8647", "is_oa": True},
+    "preliminary identification of coronaviruses in selected locations": {
+        "doi": "https://doi.org/10.4038/sljid.v13i5.8626", "is_oa": True},
+}
+
 CONFERENCE_HINTS = r"conference|congress|symposium|sessions|exposition|association|meeting|workshop|proceedings|icsusl"
 
 SANS = "'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
@@ -231,11 +243,15 @@ def build_publications(cache):
         venue = (w or {}).get("venue") or clean_venue(a["venue"])
         authors = ", ".join(short_name(n) for n, _ in w["authors"]) if w else a["authors"]
         kind = "journal" if w or not re.search(CONFERENCE_HINTS, a["venue"] or "", re.I) else "conference"
-        pubs.append({
+        pub = {
             "title": (w or a)["title"].rstrip(), "authors": authors, "venue": venue,
             "year": a["year"] or (w or {}).get("year"), "cited_by": a["cited_by"],
             "doi": (w or {}).get("doi"), "is_oa": (w or {}).get("is_oa", False), "kind": kind,
-        })
+        }
+        for fragment, fix in OVERRIDES.items():
+            if fragment in pub["title"].lower() and pub["kind"] == "journal":
+                pub.update(fix)
+        pubs.append(pub)
     pubs.sort(key=lambda p: (-(p["year"] or 0), -p["cited_by"], p["title"]))
     return pubs
 
