@@ -1,218 +1,224 @@
 {
- "refreshed": null,
+ "refreshed": "2026-11-22",
  "scholar": {
-  "fetched": null,
   "metrics": {
-   "citations": 51,
-   "citations_since": 49,
+   "citations": 59,
+   "citations_since": 58,
    "h_index": 3,
    "h_index_since": 3,
    "i10_index": 2,
    "i10_index_since": 2,
    "since_year": 2021
   },
-  "graph": {},
+  "graph": {
+   "2021": 1,
+   "2022": 5,
+   "2023": 8,
+   "2024": 14,
+   "2025": 16,
+   "2026": 11
+  },
   "articles": [
    {
     "title": "Circulating dengue virus serotypes and vertical transmission in Aedes larvae during outbreak and inter-outbreak seasons in a high dengue risk area of Sri Lanka",
     "authors": "C Wijesinghe, J Gunatilake, PHD Kusumawathie, P Sirisena, S Daulagala, ...",
-    "venue": "Parasites & vectors 14 (1), 614",
+    "venue": "Parasites & vectors 14 (1), 614, 2021",
     "year": 2021,
-    "cited_by": 23
+    "cited_by": 28
    },
    {
     "title": "Diagnostic utility and validation of a newly developed real time loop mediated isothermal amplification method for the detection of SARS CoV-2 infection",
     "authors": "BN Iqbal, S Arunasalam, MVM Divarathna, A Jabeer, P Sirisena, ...",
-    "venue": "Journal of clinical virology plus 2 (3), 100081",
+    "venue": "Journal of clinical virology plus 2 (3), 100081, 2022",
     "year": 2022,
-    "cited_by": 18
+    "cited_by": 19
    },
    {
     "title": "Relationship between clinical and laboratory features with infecting dengue virus serotypes in a sample of dengue suspected adult patients from 2015-2017 in Sri Lanka",
     "authors": "C Wijesinghe, AA Jabeer, BN Iqbal, F Noordeen",
-    "venue": "Journal of Clinical Virology Plus 2 (4), 100112",
+    "venue": "Journal of Clinical Virology Plus 2 (4), 100112, 2022",
     "year": 2022,
-    "cited_by": 4
+    "cited_by": 6
    },
    {
     "title": "Quality of the sample-based RNA determines the real-time RT-PCR results in the laboratory diagnosis of COVID-19",
     "authors": "SRM Shihab, BN Iqbal, S Arunasalam, F Noordeen",
-    "venue": "Diagnostic Microbiology and Infectious Disease 108 (1), 116076",
+    "venue": "Diagnostic Microbiology and Infectious Disease 108 (1), 116076, 2024",
     "year": 2024,
     "cited_by": 3
    },
    {
     "title": "Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in the Central Province of Sri Lanka",
     "authors": "T Fernando, BN Iqbal, SMS Cheng, V Dhanasekaran, JSM Peiris, ...",
-    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5), 2023",
     "year": 2023,
     "cited_by": 2
    },
    {
     "title": "Surveillance of SARS-CoV-2 variants targeting SARS-CoV-2 spike protein mutations associated with variants of concern and variants of interest in the Central Province of Sri …",
     "authors": "BN Iqbal, SRM Shihab, S Arunasalam, SMS Cheng, JSM Peiris, ...",
-    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5), 2023",
     "year": 2023,
     "cited_by": 1
    },
    {
     "title": "Evaluation of a rapid antigen test using a point of care real-time RT-PCR as a comparator for the detection of SARS-CoV-2",
     "authors": "JP Punchihewa, BN Iqbal, SRM Shihab, F Noordeen",
-    "venue": "Ceylon Journal of Science 55 (1)",
+    "venue": "Ceylon Journal of Science 55 (1), 2026",
     "year": 2026,
     "cited_by": 0
    },
    {
     "title": "Molecular Epidemiology of SARS-CoV-2 Detected from Different Areas of the Kandy District of Sri Lanka from November 2020–March 2022",
     "authors": "BN Iqbal, SRM Shihab, T Zhang, A Ahamed, S Arunasalam, S Jagoda, ...",
-    "venue": "Viruses 17 (9), 1189",
+    "venue": "Viruses 17 (9), 1189, 2025",
     "year": 2025,
     "cited_by": 0
    },
    {
     "title": "Knowledge and attitude of allied health science students towards COVID-19 vaccination from a leading Sri Lankan university-A cross-sectional study",
     "authors": "MIF Falilah, T Fernando, BN Iqbal, G Bowatte, F Noordeen",
-    "venue": "Ceylon Journal of Science 54 (1)",
+    "venue": "Ceylon Journal of Science 54 (1), 2025",
     "year": 2025,
     "cited_by": 0
    },
    {
     "title": "Detection of coronaviruses in wildlife rodents in the North Central Province, Sri Lanka",
     "authors": "FN Tharushi Fernando, Bushran N Iqbal, Samuel M.S Cheng, Vijakrishna ...",
-    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …, 2024",
     "year": 2024,
     "cited_by": 0
    },
    {
     "title": "Temporal trends and demographic variations in Varicella Zoster Virus (VZV) seroprevalence across urban and rural communities in Kandy District, Sri Lanka",
     "authors": "TS Kariyawasam K, Iqbal BN, Tilakaratne N, Noordeen F",
-    "venue": "Sri Lanka Medical Association,2024",
+    "venue": "Sri Lanka Medical Association,2024, 2024",
     "year": 2024,
     "cited_by": 0
    },
    {
     "title": "Detection of coronaviruses in both bats and humans in a common environment during the COVID-19 pandemic in the Central Province of Sri lanka",
     "authors": "FN T Fernando, AMSB Abeykoon, BN Iqbal, SMS Cheng, SMS Dhanasekaran, JSM Peiris",
-    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024)",
+    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024), 2024",
     "year": 2024,
     "cited_by": 0
    },
    {
     "title": "Molecular epidemiology of SARS-CoV-2 infections in the central province of Sri Lanka: An Analysis from November 2020 to March 2022",
     "authors": "FN Bushran N Iqbal, Sibra RM Shihab, Shiyamalee Arunasalam, Aadhil Ahamed ...",
-    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024)",
+    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024), 2024",
     "year": 2024,
     "cited_by": 0
    },
    {
     "title": "Preliminary identification of coronaviruses in selected locations of Sri Lanka",
     "authors": "T Fernando, BN Iqbal, CG Wijesinghe, SMS Cheng, V Dhanasekaran, ...",
-    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5), 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Detection of bat coronaviruses in a botanical gardens in Sri Lankan",
     "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
-    "venue": "9th International Conference of Sabaragamuwa University of Sri Lanka (ICSUSL …",
+    "venue": "9th International Conference of Sabaragamuwa University of Sri Lanka (ICSUSL …, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Faecal excretion of coronaviruses in bats in a selected location in Sri Lanka",
     "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
-    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Detection of bat coronaviruses in the North Central and Sabaragamuwa Province, Sri Lanka",
     "authors": "JSMP F Noordeen T Fernando, C Wijesinghe, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
-    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Identification of Coronaviruses in a selected farm in the Central Province of Sri Lanka",
     "authors": "JSMP Faseeha Noordeen Tharushi Fernando, H.A.R De Zoysa, M.N.M. Fouzi ...",
-    "venue": "75th Annual Scientific Sessions of Sri Lanka Veterinary Association",
+    "venue": "75th Annual Scientific Sessions of Sri Lanka Veterinary Association, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "SARS-CoV-2 variants in the Central Province of Sri Lanka: detection and surveillance with an economical and scalable molecular protocol",
     "authors": "FN B.N. Iqbal, S.R.M. Shihab, S. Arunasalam, S.M.S. Cheng, J.S.M. Peiris",
-    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Assessing the effectiveness of sample and RNA extract pool testing for the detection of SARS-CoV-2 RNA by real time RT-PCR",
     "authors": "MIH Sulthan, SRM Shihab, BN Iqbal, AP Pitawela, F Noordeen",
-    "venue": "Sri Lankan Journal of Infectious Diseases 13 (2)",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (2), 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in Sri Lanka",
     "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, V Dhanasekaran",
-    "venue": "33rd European Congress of Clinical Microbiology & Infectious Diseases (33rd …",
+    "venue": "33rd European Congress of Clinical Microbiology & Infectious Diseases (33rd …, 2023",
     "year": 2023,
     "cited_by": 0
    },
    {
     "title": "Quality and quantity of RNA extracts and the correlation between gross RNA load and the Ct values in a real time RT-PCR used for the detection of SARS CoV-2",
     "authors": "SRM Shihab, BN Iqbal, S Arunasalam, F Noordeen",
-    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "A pooled testing approach to COVID-19 screening by real time RT-PCR",
     "authors": "HIM Sulthan, AP Pitawela, SRM Shihab, BN Iqbal, F Noordeen",
-    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "Comparison of a rapid antigen test with a point of care rtRT-PCR for the detection of SARS CoV-2",
     "authors": "P Punchihewa, BN Iqbal, SRM Shihab, F Noordeen",
-    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "Evaluation of protective immunity against hepatitis B virus infection and factors associated with anti-HBs levels among vaccinated haemodialysis patients at two major …",
     "authors": "FN WM Asmir, S Mathu, BN Iqbal",
-    "venue": "The 8th Asian Vaccine Conference",
+    "venue": "The 8th Asian Vaccine Conference, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "Quality of RNA extracts produced by two commonly used manual RNA extraction kits used for the detection of SARS-CoV-2 in Sri Lanka",
     "authors": "FN Bushran N Iqbal, Sibra R M Shihab, Shiyamalee Arunasalam",
-    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases",
+    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "Purity and correlation between total RNA in the throat swabs of COVID-19 suspected individuals and real time RT-PCR",
     "authors": "FN Sibra R M Shihab , Bushran N Iqbal , Shiyamalee Arunasalam",
-    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases",
+    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases, 2022",
     "year": 2022,
     "cited_by": 0
    },
    {
     "title": "Development and validation of a loop mediated isothermal amplification assay to detect severe acute respiratory syndrome corona virus-2",
     "authors": "BN Iqbal, S Arunasalam, MVM Divarathna, AA Jabeer, UTN Senaratne, ...",
-    "venue": "Sri Lankan Journal of Infectious Diseases 11",
+    "venue": "Sri Lankan Journal of Infectious Diseases 11, 2021",
     "year": 2021,
     "cited_by": 0
    }
-  ]
+  ],
+  "fetched": "2026-11-22"
  },
  "openalex": {
-  "fetched": null,
   "counts_by_year": {
    "2021": 1,
    "2022": 4,
@@ -317,7 +323,8 @@
      [
       "Rohitha Muthugala",
       [
-       "Teaching Hospital Kandy"
+       "Teaching Hospital Kandy",
+       "National Hospital of Sri Lanka"
       ]
      ],
      [
@@ -730,6 +737,7 @@
      ]
     ]
    }
-  ]
+  ],
+  "fetched": "2026-11-22"
  }
 }
