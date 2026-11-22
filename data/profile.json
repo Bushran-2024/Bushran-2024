@@ -1,0 +1,735 @@
+{
+ "refreshed": null,
+ "scholar": {
+  "fetched": null,
+  "metrics": {
+   "citations": 51,
+   "citations_since": 49,
+   "h_index": 3,
+   "h_index_since": 3,
+   "i10_index": 2,
+   "i10_index_since": 2,
+   "since_year": 2021
+  },
+  "graph": {},
+  "articles": [
+   {
+    "title": "Circulating dengue virus serotypes and vertical transmission in Aedes larvae during outbreak and inter-outbreak seasons in a high dengue risk area of Sri Lanka",
+    "authors": "C Wijesinghe, J Gunatilake, PHD Kusumawathie, P Sirisena, S Daulagala, ...",
+    "venue": "Parasites & vectors 14 (1), 614",
+    "year": 2021,
+    "cited_by": 23
+   },
+   {
+    "title": "Diagnostic utility and validation of a newly developed real time loop mediated isothermal amplification method for the detection of SARS CoV-2 infection",
+    "authors": "BN Iqbal, S Arunasalam, MVM Divarathna, A Jabeer, P Sirisena, ...",
+    "venue": "Journal of clinical virology plus 2 (3), 100081",
+    "year": 2022,
+    "cited_by": 18
+   },
+   {
+    "title": "Relationship between clinical and laboratory features with infecting dengue virus serotypes in a sample of dengue suspected adult patients from 2015-2017 in Sri Lanka",
+    "authors": "C Wijesinghe, AA Jabeer, BN Iqbal, F Noordeen",
+    "venue": "Journal of Clinical Virology Plus 2 (4), 100112",
+    "year": 2022,
+    "cited_by": 4
+   },
+   {
+    "title": "Quality of the sample-based RNA determines the real-time RT-PCR results in the laboratory diagnosis of COVID-19",
+    "authors": "SRM Shihab, BN Iqbal, S Arunasalam, F Noordeen",
+    "venue": "Diagnostic Microbiology and Infectious Disease 108 (1), 116076",
+    "year": 2024,
+    "cited_by": 3
+   },
+   {
+    "title": "Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in the Central Province of Sri Lanka",
+    "authors": "T Fernando, BN Iqbal, SMS Cheng, V Dhanasekaran, JSM Peiris, ...",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "year": 2023,
+    "cited_by": 2
+   },
+   {
+    "title": "Surveillance of SARS-CoV-2 variants targeting SARS-CoV-2 spike protein mutations associated with variants of concern and variants of interest in the Central Province of Sri …",
+    "authors": "BN Iqbal, SRM Shihab, S Arunasalam, SMS Cheng, JSM Peiris, ...",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "year": 2023,
+    "cited_by": 1
+   },
+   {
+    "title": "Evaluation of a rapid antigen test using a point of care real-time RT-PCR as a comparator for the detection of SARS-CoV-2",
+    "authors": "JP Punchihewa, BN Iqbal, SRM Shihab, F Noordeen",
+    "venue": "Ceylon Journal of Science 55 (1)",
+    "year": 2026,
+    "cited_by": 0
+   },
+   {
+    "title": "Molecular Epidemiology of SARS-CoV-2 Detected from Different Areas of the Kandy District of Sri Lanka from November 2020–March 2022",
+    "authors": "BN Iqbal, SRM Shihab, T Zhang, A Ahamed, S Arunasalam, S Jagoda, ...",
+    "venue": "Viruses 17 (9), 1189",
+    "year": 2025,
+    "cited_by": 0
+   },
+   {
+    "title": "Knowledge and attitude of allied health science students towards COVID-19 vaccination from a leading Sri Lankan university-A cross-sectional study",
+    "authors": "MIF Falilah, T Fernando, BN Iqbal, G Bowatte, F Noordeen",
+    "venue": "Ceylon Journal of Science 54 (1)",
+    "year": 2025,
+    "cited_by": 0
+   },
+   {
+    "title": "Detection of coronaviruses in wildlife rodents in the North Central Province, Sri Lanka",
+    "authors": "FN Tharushi Fernando, Bushran N Iqbal, Samuel M.S Cheng, Vijakrishna ...",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "year": 2024,
+    "cited_by": 0
+   },
+   {
+    "title": "Temporal trends and demographic variations in Varicella Zoster Virus (VZV) seroprevalence across urban and rural communities in Kandy District, Sri Lanka",
+    "authors": "TS Kariyawasam K, Iqbal BN, Tilakaratne N, Noordeen F",
+    "venue": "Sri Lanka Medical Association,2024",
+    "year": 2024,
+    "cited_by": 0
+   },
+   {
+    "title": "Detection of coronaviruses in both bats and humans in a common environment during the COVID-19 pandemic in the Central Province of Sri lanka",
+    "authors": "FN T Fernando, AMSB Abeykoon, BN Iqbal, SMS Cheng, SMS Dhanasekaran, JSM Peiris",
+    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024)",
+    "year": 2024,
+    "cited_by": 0
+   },
+   {
+    "title": "Molecular epidemiology of SARS-CoV-2 infections in the central province of Sri Lanka: An Analysis from November 2020 to March 2022",
+    "authors": "FN Bushran N Iqbal, Sibra RM Shihab, Shiyamalee Arunasalam, Aadhil Ahamed ...",
+    "venue": "46th Annual Academic Sessions of Kandy Society of Medicine (KSM 2024)",
+    "year": 2024,
+    "cited_by": 0
+   },
+   {
+    "title": "Preliminary identification of coronaviruses in selected locations of Sri Lanka",
+    "authors": "T Fernando, BN Iqbal, CG Wijesinghe, SMS Cheng, V Dhanasekaran, ...",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (5)",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Detection of bat coronaviruses in a botanical gardens in Sri Lankan",
+    "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
+    "venue": "9th International Conference of Sabaragamuwa University of Sri Lanka (ICSUSL …",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Faecal excretion of coronaviruses in bats in a selected location in Sri Lanka",
+    "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Detection of bat coronaviruses in the North Central and Sabaragamuwa Province, Sri Lanka",
+    "authors": "JSMP F Noordeen T Fernando, C Wijesinghe, BN Iqbal, SMS Cheng, SMS Dhanasekaran",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Identification of Coronaviruses in a selected farm in the Central Province of Sri Lanka",
+    "authors": "JSMP Faseeha Noordeen Tharushi Fernando, H.A.R De Zoysa, M.N.M. Fouzi ...",
+    "venue": "75th Annual Scientific Sessions of Sri Lanka Veterinary Association",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "SARS-CoV-2 variants in the Central Province of Sri Lanka: detection and surveillance with an economical and scalable molecular protocol",
+    "authors": "FN B.N. Iqbal, S.R.M. Shihab, S. Arunasalam, S.M.S. Cheng, J.S.M. Peiris",
+    "venue": "University of Peradeniya International Research Symposium and Exposition …",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Assessing the effectiveness of sample and RNA extract pool testing for the detection of SARS-CoV-2 RNA by real time RT-PCR",
+    "authors": "MIH Sulthan, SRM Shihab, BN Iqbal, AP Pitawela, F Noordeen",
+    "venue": "Sri Lankan Journal of Infectious Diseases 13 (2)",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in Sri Lanka",
+    "authors": "JSMP F Noordeen T Fernando, BN Iqbal, SMS Cheng, V Dhanasekaran",
+    "venue": "33rd European Congress of Clinical Microbiology & Infectious Diseases (33rd …",
+    "year": 2023,
+    "cited_by": 0
+   },
+   {
+    "title": "Quality and quantity of RNA extracts and the correlation between gross RNA load and the Ct values in a real time RT-PCR used for the detection of SARS CoV-2",
+    "authors": "SRM Shihab, BN Iqbal, S Arunasalam, F Noordeen",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "A pooled testing approach to COVID-19 screening by real time RT-PCR",
+    "authors": "HIM Sulthan, AP Pitawela, SRM Shihab, BN Iqbal, F Noordeen",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "Comparison of a rapid antigen test with a point of care rtRT-PCR for the detection of SARS CoV-2",
+    "authors": "P Punchihewa, BN Iqbal, SRM Shihab, F Noordeen",
+    "venue": "Sri Lankan Journal of Infectious Diseases 12",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "Evaluation of protective immunity against hepatitis B virus infection and factors associated with anti-HBs levels among vaccinated haemodialysis patients at two major …",
+    "authors": "FN WM Asmir, S Mathu, BN Iqbal",
+    "venue": "The 8th Asian Vaccine Conference",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "Quality of RNA extracts produced by two commonly used manual RNA extraction kits used for the detection of SARS-CoV-2 in Sri Lanka",
+    "authors": "FN Bushran N Iqbal, Sibra R M Shihab, Shiyamalee Arunasalam",
+    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "Purity and correlation between total RNA in the throat swabs of COVID-19 suspected individuals and real time RT-PCR",
+    "authors": "FN Sibra R M Shihab , Bushran N Iqbal , Shiyamalee Arunasalam",
+    "venue": "32nd European Congress of Clinical Microbiology & Infectious Diseases",
+    "year": 2022,
+    "cited_by": 0
+   },
+   {
+    "title": "Development and validation of a loop mediated isothermal amplification assay to detect severe acute respiratory syndrome corona virus-2",
+    "authors": "BN Iqbal, S Arunasalam, MVM Divarathna, AA Jabeer, UTN Senaratne, ...",
+    "venue": "Sri Lankan Journal of Infectious Diseases 11",
+    "year": 2021,
+    "cited_by": 0
+   }
+  ]
+ },
+ "openalex": {
+  "fetched": null,
+  "counts_by_year": {
+   "2021": 1,
+   "2022": 4,
+   "2023": 7,
+   "2024": 16,
+   "2025": 13,
+   "2026": 14
+  },
+  "works": [
+   {
+    "title": "Circulating dengue virus serotypes and vertical transmission in Aedes larvae during outbreak and inter-outbreak seasons in a high dengue risk area of Sri Lanka",
+    "year": 2021,
+    "doi": "https://doi.org/10.1186/s13071-021-05114-5",
+    "cited_by": 28,
+    "is_oa": true,
+    "venue": "Parasites & Vectors",
+    "authors": [
+     [
+      "Chandana Wijesinghe",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Jagath Gunatilake",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "P.H.D. Kusumawathie",
+      []
+     ],
+     [
+      "PDNN Sirisena",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "S. W. P. L. Daulagala",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Diagnostic utility and validation of a newly developed real time loop mediated isothermal amplification method for the detection of SARS CoV-2 infection",
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.jcvp.2022.100081",
+    "cited_by": 17,
+    "is_oa": true,
+    "venue": "Journal of Clinical Virology Plus",
+    "authors": [
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Shiyamalee Arunasalam",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Maduja V. M. Divarathna",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "A. A. Jabeer",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "PDNN Sirisena",
+      []
+     ],
+     [
+      "Thamarasi Senaratne",
+      [
+       "General Sir John Kotelawala Defence University"
+      ]
+     ],
+     [
+      "Rohitha Muthugala",
+      [
+       "Teaching Hospital Kandy"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Relationship between clinical and laboratory features with infecting dengue virus serotypes in a sample of dengue suspected adult patients from 2015-2017 in Sri Lanka",
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.jcvp.2022.100112",
+    "cited_by": 7,
+    "is_oa": true,
+    "venue": "Journal of Clinical Virology Plus",
+    "authors": [
+     [
+      "Chandana Wijesinghe",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "A. A. Jabeer",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Quality of the sample-based RNA determines the real-time RT-PCR results in the laboratory diagnosis of COVID-19",
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/j.diagmicrobio.2023.116076",
+    "cited_by": 3,
+    "is_oa": false,
+    "venue": "Diagnostic Microbiology and Infectious Disease",
+    "authors": [
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Shiyamalee Arunasalam",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Development and validation of a loop mediated isothermal amplification assay to detect severe acute respiratory syndrome corona virus-2",
+    "year": 2021,
+    "doi": "https://doi.org/10.4038/sljid.v11i0.8450",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Sri Lankan Journal of Infectious Diseases",
+    "authors": [
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Shiyamalee Arunasalam",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Maduja V. M. Divarathna",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "A. A. Jabeer",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Thamarasi Senaratne",
+      [
+       "General Sir John Kotelawala Defence University"
+      ]
+     ],
+     [
+      "PDNN Sirisena",
+      []
+     ],
+     [
+      "Rohitha Muthugala",
+      [
+       "Teaching Hospital Kandy"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Comparison of a rapid antigen test with a point of care rtRT-PCR for the detection of SARS CoV-2",
+    "year": 2022,
+    "doi": "https://doi.org/10.4038/sljid.v12i0.8561",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Sri Lankan Journal of Infectious Diseases",
+    "authors": [
+     [
+      "P. H. J. P. Punchihewa",
+      []
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "A pooled testing approach to COVID-19 screening by real time RT-PCR",
+    "year": 2022,
+    "doi": "https://doi.org/10.4038/sljid.v12i0.8560",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Sri Lankan Journal of Infectious Diseases",
+    "authors": [
+     [
+      "H. I. M. Sulthan",
+      []
+     ],
+     [
+      "A. P. Pitawela",
+      []
+     ],
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Quality and quantity of RNA extracts and the correlation between gross RNA load and the Ct values in a real time RT-PCR used for the detection of SARS CoV-2",
+    "year": 2022,
+    "doi": "https://doi.org/10.4038/sljid.v12i0.8557",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Sri Lankan Journal of Infectious Diseases",
+    "authors": [
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "S. Arunasalam",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Assessing the effectiveness of sample and RNA extract pool testing for the detection of SARS-CoV-2 RNA by real time RT-PCR",
+    "year": 2023,
+    "doi": "https://doi.org/10.4038/sljid.v13i2.8574",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Sri Lankan Journal of Infectious Diseases",
+    "authors": [
+     [
+      "M. I. H. Sulthan",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "A. P. Pitawela",
+      []
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Knowledge and attitude of allied health science students towards COVID-19 vaccination from a leading Sri Lankan university - A cross-sectional study",
+    "year": 2025,
+    "doi": "https://doi.org/10.4038/cjs.v54i1.8341",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Ceylon Journal of Science",
+    "authors": [
+     [
+      "M. I. F. Falilah",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "T. Fernando",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Gayan Bowatte",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Molecular Epidemiology of SARS-CoV-2 Detected from Different Areas of the Kandy District of Sri Lanka from November 2020–March 2022",
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/v17091189",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Viruses",
+    "authors": [
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Sibra RM Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Tao Zhang",
+      [
+       "University of Hong Kong"
+      ]
+     ],
+     [
+      "Aadhil Ahamed",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Shiyamalee Arunasalam",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "S. S. S. De S. Jagoda",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Leo L. M. Poon",
+      [
+       "University of Hong Kong"
+      ]
+     ],
+     [
+      "Malik J. S. Peiris",
+      [
+       "University of Hong Kong"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   },
+   {
+    "title": "Evaluation of a rapid antigen test using a point of care real-time RT-PCR as a comparator for the detection of SARS-CoV-2",
+    "year": 2026,
+    "doi": "https://doi.org/10.4038/cjs.v55i1.8664",
+    "cited_by": 0,
+    "is_oa": true,
+    "venue": "Ceylon Journal of Science",
+    "authors": [
+     [
+      "J. P. Punchihewa",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "Bushran N. Iqbal",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "S. R. M. Shihab",
+      [
+       "University of Peradeniya"
+      ]
+     ],
+     [
+      "F. Noordeen",
+      [
+       "University of Peradeniya"
+      ]
+     ]
+    ]
+   }
+  ]
+ }
+}

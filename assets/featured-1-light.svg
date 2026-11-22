@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="210" viewBox="0 0 412 210" role="img" aria-label="Diagnostic utility and validation of a newly developed real time loop mediated isothermal amplification method for the detection of SARS CoV-2 infection"><title>Diagnostic utility and validation of a newly developed real time loop mediated isothermal amplification method for the detection of SARS CoV-2 infection</title><style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif} .serif{font-family:Georgia,Gelasio,'Times New Roman',Times,serif}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes growY{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes growX{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.up{animation:up .7s cubic-bezier(.2,.7,.2,1) both}
+.gy{transform-box:fill-box;transform-origin:50% 100%;animation:growY .9s cubic-bezier(.2,.7,.2,1) both}
+.gx{transform-box:fill-box;transform-origin:0 50%;animation:growX .9s cubic-bezier(.2,.7,.2,1) both}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.4,.5,1) both}
+.draw{stroke-dasharray:1;animation:draw 1.2s ease-out both}
+.fade{animation:fade 1s ease-out both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="411" height="209" rx="14" fill="#ffffff" stroke="#d0d7de"/><rect x="0" y="22" width="4" height="40" rx="2" fill="#2a78d6"/><text x="28" y="40" class="sans" font-size="11" letter-spacing="1.2" font-weight="600" fill="#2a78d6">JOURNAL OF CLINICAL VIROLOGY PLUS  ·  2022</text><text x="28" y="70" class="serif up" font-size="17.5" fill="#1f2328" style="animation-delay:0.10s">Diagnostic utility and validation of a</text><text x="28" y="93" class="serif up" font-size="17.5" fill="#1f2328" style="animation-delay:0.16s">newly developed real time loop mediated</text><text x="28" y="116" class="serif up" font-size="17.5" fill="#1f2328" style="animation-delay:0.22s">isothermal amplification method for the</text><text x="28" y="139" class="serif up" font-size="17.5" fill="#1f2328" style="animation-delay:0.28s">detection of SARS CoV-2 infection</text><rect x="28" y="170" width="157" height="22" rx="11" fill="#f6f8fa" stroke="#d0d7de"/><text x="107" y="185" class="sans" font-size="11.5" text-anchor="middle" fill="#1f2328">Molecular diagnostics</text><text x="199" y="185" class="sans" font-size="12" fill="#59636e">18 citations</text><g transform="translate(294,173)" fill="none" stroke="#1baf7a" stroke-width="1.6" stroke-linecap="round"><rect x="1" y="7" width="11" height="9" rx="2" fill="#1baf7a" fill-opacity=".15"/><path d="M3.5 7V4.5a3 3 0 0 1 5.8-1"/></g><text x="312" y="185" class="sans" font-size="12" fill="#59636e">Open access</text></svg>
