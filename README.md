@@ -13,11 +13,26 @@
 
 ## About
 
-I work in medical virology and molecular biology, where laboratory diagnostics meet disease surveillance. I am at the Institute of Biotechnology, Life Sciences Center, Vilnius University. Most of my published work comes from the University of Peradeniya, Sri Lanka, with collaborators at The University of Hong Kong.
+I am a PhD student and Junior Research Scientist at the Institute of Biotechnology, Life Sciences Center, Vilnius University, working on virus evolution in the [Dudas lab](https://github.com/Dudas-lab). Before that I completed an MPhil in Medical Virology and Molecular Biology at the University of Peradeniya, Sri Lanka, where most of my published work was done, with collaborators at The University of Hong Kong.
 
+- **Virus evolution.** Segment-specific evolutionary rates in geographically restricted Wuhan mosquito virus 6 lineages (PhD work, Vilnius University, 2026).
 - **Genomic surveillance.** Tracked SARS-CoV-2 variants and their molecular epidemiology across the Kandy District of Sri Lanka, with The University of Hong Kong (*Viruses*, 2025).
 - **One Health.** Coronavirus detection in bats, wildlife rodents and farm animals across several provinces of Sri Lanka.
 - **Arboviruses.** Dengue virus serotypes and vertical transmission in *Aedes* larvae (*Parasites & Vectors*, 2021), the most cited of my papers.
+
+## Education
+
+- **PhD**, Institute of Biotechnology, Life Sciences Center, Vilnius University (2025 to present)
+- **MPhil in Medical Virology and Molecular Biology**, Department of Microbiology, University of Peradeniya, Sri Lanka (2025)
+- **BSc (Hons) Biomedical Sciences**, Northumbria University, UK (2019)
+
+## Awards and service
+
+- Sri Lankan Society for Microbiology Scientific Publication Award, 2022, 2024 and 2025
+- ESCMID Förderverein Grant, 2023
+- ECCMID 2023 Outreach Grant
+- Peer reviewer for *PLOS Neglected Tropical Diseases*
+- Member of ESCMID and the Sri Lankan Society for Microbiology
 
 ## Research impact
 
