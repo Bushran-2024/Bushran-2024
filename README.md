@@ -82,10 +82,10 @@ I am a PhD student and Junior Research Scientist at the Institute of Biotechnolo
 
 **2023**
 
-- Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in the Central Province of Sri Lanka<br><sub>T Fernando, <b>BN Iqbal</b>, SMS Cheng, V Dhanasekaran, JSM Peiris, ... · <i>Sri Lankan Journal of Infectious Diseases</i> · 2 citations</sub>
-- Surveillance of SARS-CoV-2 variants targeting SARS-CoV-2 spike protein mutations associated with variants of concern and variants of interest in the Central Province of Sri …<br><sub><b>BN Iqbal</b>, SRM Shihab, S Arunasalam, SMS Cheng, JSM Peiris, ... · <i>Sri Lankan Journal of Infectious Diseases</i> · 1 citation</sub>
+- [Comparison of bat coronaviruses detected before and during the COVID-19 pandemic in a selected environment in the Central Province of Sri Lanka](https://doi.org/10.4038/sljid.v13i5.8647)<br><sub>T Fernando, <b>BN Iqbal</b>, SMS Cheng, V Dhanasekaran, JSM Peiris, ... · <i>Sri Lankan Journal of Infectious Diseases</i> · 2 citations · open access</sub>
+- [Surveillance of SARS-CoV-2 variants targeting SARS-CoV-2 spike protein mutations associated with variants of concern and variants of interest in the Central Province of Sri Lanka from November 2020 to November 2021](https://doi.org/10.4038/sljid.v13i5.8624)<br><sub><b>BN Iqbal</b>, SRM Shihab, S Arunasalam, SMS Cheng, JSM Peiris, ... · <i>Sri Lankan Journal of Infectious Diseases</i> · 1 citation · open access</sub>
 - [Assessing the effectiveness of sample and RNA extract pool testing for the detection of SARS-CoV-2 RNA by real time RT-PCR](https://doi.org/10.4038/sljid.v13i2.8574)<br><sub>MIH Sulthan, SRM Shihab, <b>BN Iqbal</b>, AP Pitawela, F Noordeen · <i>Sri Lankan Journal of Infectious Diseases</i> · open access</sub>
-- Preliminary identification of coronaviruses in selected locations of Sri Lanka<br><sub>T Fernando, <b>BN Iqbal</b>, CG Wijesinghe, SMS Cheng, V Dhanasekaran, ... · <i>Sri Lankan Journal of Infectious Diseases</i></sub>
+- [Preliminary identification of coronaviruses in selected locations of Sri Lanka](https://doi.org/10.4038/sljid.v13i5.8626)<br><sub>T Fernando, <b>BN Iqbal</b>, CG Wijesinghe, SMS Cheng, V Dhanasekaran, ... · <i>Sri Lankan Journal of Infectious Diseases</i> · open access</sub>
 
 **2022**
 
