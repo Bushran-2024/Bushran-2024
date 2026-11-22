@@ -15,7 +15,6 @@
 
 I work in medical virology and molecular biology, where laboratory diagnostics meet disease surveillance. I am at the Institute of Biotechnology, Life Sciences Center, Vilnius University. Most of my published work comes from the University of Peradeniya, Sri Lanka, with collaborators at The University of Hong Kong.
 
-- **Assay development.** Developed and validated a real-time loop-mediated isothermal amplification (LAMP) assay for SARS-CoV-2, and studied how RNA quality and pooled testing shape RT-PCR results.
 - **Genomic surveillance.** Tracked SARS-CoV-2 variants and their molecular epidemiology across the Kandy District of Sri Lanka, with The University of Hong Kong (*Viruses*, 2025).
 - **One Health.** Coronavirus detection in bats, wildlife rodents and farm animals across several provinces of Sri Lanka.
 - **Arboviruses.** Dengue virus serotypes and vertical transmission in *Aedes* larvae (*Parasites & Vectors*, 2021), the most cited of my papers.
