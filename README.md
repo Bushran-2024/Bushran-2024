@@ -123,5 +123,5 @@ I am a PhD student and Junior Research Scientist at the Institute of Biotechnolo
 ---
 
 <!--FOOTER:START-->
-<p align="center"><sub>Refreshed every week by GitHub Actions · metrics from Google Scholar, publication metadata from OpenAlex · last refreshed 22 Nov 2026</sub></p>
+<p align="center"><sub>Refreshed every week by GitHub Actions · metrics from Google Scholar, publication metadata from OpenAlex · last refreshed 23 Nov 2026</sub></p>
 <!--FOOTER:END-->

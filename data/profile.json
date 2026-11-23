@@ -1,5 +1,5 @@
 {
- "refreshed": "2026-11-22",
+ "refreshed": "2026-11-23",
  "scholar": {
   "metrics": {
    "citations": 59,
@@ -216,7 +216,7 @@
     "cited_by": 0
    }
   ],
-  "fetched": "2026-11-22"
+  "fetched": "2026-11-23"
  },
  "openalex": {
   "counts_by_year": {
@@ -738,6 +738,6 @@
     ]
    }
   ],
-  "fetched": "2026-11-22"
+  "fetched": "2026-11-23"
  }
 }
